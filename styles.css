@@ -1,0 +1,26 @@
+.main{
+    text-align: center;
+    margin-top: 10%;
+}
+.content{
+    margin-top:50px ;
+}
+h1{
+    font-size: 50px;
+}
+.first,.second,.three{
+    display:inline-block;
+    padding: 10px;
+    justify-content: space-evenly;
+    padding-left: 10px;
+}
+.first{
+    padding-left: 20px;
+}
+p{
+    padding: 5%;
+    color: grey;
+}
+h4{
+    color: grey;
+}
